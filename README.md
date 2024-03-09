@@ -1,6 +1,6 @@
 ## Welcome to my Github ✋
 
-![AlexDev1124 GitHub stats](https://github.com/AlexDev1124)
+[AlexDev1124 GitHub stats](https://github.com/AlexDev1124)
 
 ## Technologies that I use in my day
 
